@@ -36,6 +36,7 @@ Alt & Space::
 	Sleep, 600 
 	send, ^v
 	Sleep, 600
+	Clipboard := OldClipboard
     return
     
 GetKeyboardLanguage()
